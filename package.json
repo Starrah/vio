@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "chalk": "^2.4.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "extendable-error": "^0.1.5",
     "glob": "^7.1.2",
     "hyphenate": "^0.2.1",
